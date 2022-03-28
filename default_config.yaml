@@ -1,0 +1,17 @@
+api-addr: 127.0.0.1:1633
+cache-capacity: "1000000"
+data-dir: /data/node0
+debug-api-addr: 127.0.0.1:1635
+debug-api-enable: true
+full-node: true
+mine: true
+nat-addr: ""
+network-id: "8845"
+p2p-addr: :1634
+password: "123456"
+swap-enable: true
+swap-endpoint: https://data-seed-pressc-1.sinso.io
+swap-initial-deposit: "1000000000000000000"
+verbosity: info
+warmup-time: 20m0s
+welcome-message: "Welcome to the Sinso Network"
